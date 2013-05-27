@@ -1,13 +1,24 @@
-Pentrack_website
+Pentrack Website
 ================
 
 New HTML 5 Responsive Design/phone &amp; PC site
 
 
-Not Done yet.
+Started on: March 12, 2013
+
+Compleation: 30%
+
+Main Coding: 87%
 
 
-Slider is a tad buggy with big pictues; Max hight is 370 (pixles)
+
+
+
+Notes:
+
+
+-Slider is a tad buggy with big pictues; Max hight is 370 (pixles)
+-Slider will not load pictures if loaded on remote server if pictures are to big.
 
 
 
@@ -17,6 +28,9 @@ index.html
 contact.html
 reg@fees.html
 error.html
+
+
+
 
 
 
